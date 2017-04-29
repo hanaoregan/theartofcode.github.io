@@ -1,0 +1,53 @@
+body {
+	background: #1ddd29;
+	width: 3000px;
+}
+
+.shape-1 {
+	background-color: #880eed;
+	width: 1000px;
+	height: 700px;
+	margin: 10px auto;
+	position: absolute;
+	float: center;
+}
+
+.shape-2 {
+	background-color: #33fccc;
+	width: 900px;
+	height: 600px;
+	margin: 10px auto;
+	position: absolute;
+	align-content: center;
+}
+
+.shape-3 {
+	background-color: #2bd332;
+	width: 700px;
+	height: 400px;
+	margin: 10px auto;
+	position: absolute;
+}
+
+.shape-4 {
+	background-color: #bb55b1;
+	width: 600px;
+	height: 300px;
+	margin: 10px auto;
+	position: absolute;
+}
+
+.shape-5 {
+	background-color: #1bbbbd;
+	width: 200px;
+	height: 100px;
+	margin: 10px auto;
+	position: absolute;
+}
+
+a .shape-6 {
+	background-color: #bdf69f;
+	height: 100px;
+	width: 70px;
+	position: absolute;
+}

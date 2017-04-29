@@ -1,0 +1,109 @@
+body {
+	background: #e20ffe;
+	font-family: Times, serif;
+	text-align: center;
+	height: 3000px;
+}
+
+h1 {
+	font-size: 16em;
+	position: fixed;
+	text-align: center;
+	margin: 90px auto;
+	width: 100%;
+}
+
+p {
+	font-size: 60px;
+	text-align: center;
+	color: #45ee45;
+	padding-top: 100px;
+	float: left;
+	width: 100%;
+	margin: auto;
+	font-family: Garamond, sans-serif;
+}
+
+p a {
+	text-decoration: none;
+	color: #45ee45;
+}
+
+.line-1 {
+	border: 10px solid #45dd99;
+	width: 100%;
+	position: relative;
+	display: block;
+}
+
+.line-2 {
+	border: 10px dotted #6666ee;
+	width: 100%;
+	display: block;
+	position: relative;
+	margin-top: 80px;
+}
+
+.line-3 {
+	border: 10px solid #22f3f2;
+	width: 100%;
+	display: block;
+	position: relative;
+	margin-top: 160px;
+}
+
+.line-4 {
+	border: 7px solid #55c2c2;
+	width: 100%;
+	display: block;
+	position: relative;
+	margin-top: 340px;
+}
+
+.line-5 {
+	border: 10px dotted #c333cf;
+	width: 100%;
+	display: block;
+	position: relative;
+	margin-top: 600px;
+}
+
+.line-6 {
+	border: 10px dotted #22ddd3;
+	width: 100%;
+	display: block;
+	position: relative;
+	margin-top: 60px;
+}
+
+.line-7 {
+	border: 14px dotted #66ccee;
+	width: 100%;
+	display: block;
+	position: relative;
+	margin-top: 80px;
+}
+
+.line-8 {
+	border: 8px solid #02010f;
+	width: 100%;
+	display: block;
+	position: relative;
+	margin-top: 80px;
+}
+
+.line-9 {
+	border: 12px solid #eeee71;
+	width: 100%;
+	display: block;
+	position: relative;
+	margin-top: 120px;
+}
+
+.line-10 {
+	border: 20px dotted #4ffee2;
+	width: 100%;
+	display: block;
+	position: relative;
+	margin-top: 750px;
+}
